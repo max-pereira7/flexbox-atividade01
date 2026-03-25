@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Atividade 01 de Flexbox
 
 ## Testando comandos de estilo:
@@ -16,3 +17,6 @@ Adicione os estilos abaixo no código-fonte e veja o que acontece com os element
 Desafio: como será que eu faço para deixar os elementos da maneira abaixo?
 
 ![atividade-desafio](https://github.com/user-attachments/assets/15721745-1954-493b-8b34-894ab6e9764c)
+=======
+# flexbox-atividade01
+>>>>>>> 11d06d7015ed315c2aa50d5360d7fb129d5d90f5
